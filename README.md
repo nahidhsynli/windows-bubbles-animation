@@ -1,2 +1,3 @@
 # Windows bubbles animation
-- Deploy link: 
+
+- Deploy link: https://windows-bubbles-anim-nahidhsynli.netlify.app/
